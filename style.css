@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+header {
+  position: center;
+  width: 90%;
+  height: 100px;
+  margin: 10px 40px 10px 40px;
+}
+
+header>img {
+  margin-right: 20px;
+}
+
+#headertext {
+  margin: -1px;
+  display: inline-block;
+  vertical-align: text-bottom;
+  height: 100px;
+  max-width: 150px;
+}
+
+#headertext h1 {
+  font-family: 'Yellowtail', cursive;
+  display: inline;
+}
+
+#headertext h5 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-size: smaller;
+}
+
+#headericons {
+  float: right;
+}
+
+#title {
+  width: 300px;
+  font-family: 'Oswald', sans-serif;
+  margin: -5px 0px 0px 0px;
+  display: inline-block;
+}
+
+#titleinfo {
+  width: 200px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-size: smaller;
+  margin: -5px 0px 0px 0px;
+}
+
+#print {
+  display: inline-block;
+  float: right;
+}
+
+#print img {
+  margin-right: 0px;
+
+}
+
+#print h6 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-size: x-small;
+  display: inline;
+  margin: 0px;
+}
+
+#dateprint {
+  position: center;
+  width: 90%;
+  height: 100px;
+  margin: 10px 40px 10px 40px;
+
+}
+
+.content {
+  width: 90%;
+}
+
+main {
+  max-width: 100%;
+}
+
+#chocolatepizza {
+  
+  margin-left: 40px;
+  width: 90%;
+  left: 0px;
+  right: 0px;
+}
+
+.text {
+  text-indent: 1cm;
+  margin: 25px 0px 25px 40px;
+  width: 100%;
+  left: 0px;
+  right: 0px;
+}
+
+#recipe {
+  background-image: url(img/list-bg.png);
+  margin-left: 60px;
+}
+
+div ul {
+  display: inline-block;
+}
+
+#list1 {
+  margin-left: 130px;
+}
+
+#list2 {
+  margin-left: 130px;
+}
+
+#authorinfo {
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+#authorinfo a {
+  float: right;
+  margin-left: 50px;
+}
+
+#about {
+  display: inline-block;
+  margin: -5px;
+  height: 80px;
+}
+
+#about h6, p {
+  margin: 0px;
+  padding: 0px;
+}
+
+footer {
+  margin-top: 10px;
+  text-align: center;
+}
+
+footer h6 {
+  margin: 5px;
+}
